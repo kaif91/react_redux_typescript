@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "jogging",
+      "dateStart": "2022-11-01T06:50:26.542Z",
+      "dateEnd": "2022-11-01T07:50:26.542Z"
+    },
+    {
+      "title": "No Name",
+      "dateStart": "2022-11-02T07:25:29.587Z",
+      "dateEnd": "2022-11-02T07:25:49.491Z",
+      "id": 2
+    },
+    {
+      "title": "No Name",
+      "dateStart": "2022-11-02T07:27:38.034Z",
+      "dateEnd": "2022-11-02T07:27:42.365Z",
+      "id": 3
+    },
+    {
+      "title": "No Name",
+      "dateStart": "2022-11-02T07:30:49.571Z",
+      "dateEnd": "2022-11-02T07:30:54.224Z",
+      "id": 4
+    },
+    {
+      "title": "No Name",
+      "dateStart": "2022-11-02T07:32:11.970Z",
+      "dateEnd": "2022-11-02T07:32:14.893Z",
+      "id": 5
+    },
+    {
+      "title": "No Name",
+      "dateStart": "2022-11-02T07:35:25.621Z",
+      "dateEnd": "2022-11-02T07:35:28.409Z",
+      "id": 6
+    }
+  ]
+}
